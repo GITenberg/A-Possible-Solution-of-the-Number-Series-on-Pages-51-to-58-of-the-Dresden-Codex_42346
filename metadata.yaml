@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41637'
     url: http://www.gutenberg.org/2009/agents/41637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42346#A-Possible-Solution-of-the-Number-Series-on-Pages-51-to-58-of-the-Dresden-Codex
 gutenberg_issued: '2013-03-16'
 gutenberg_type: Text
 identifiers:
