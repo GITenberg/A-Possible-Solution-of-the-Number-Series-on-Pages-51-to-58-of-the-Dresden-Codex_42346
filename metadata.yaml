@@ -1,0 +1,30 @@
+_repo: A-Possible-Solution-of-the-Number-Series-on-Pages-51-to-58-of-the-Dresden-Codex_42346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42346-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Guthe, Carl E. (Carl Eugen)
+    aliases:
+    - Guthe, Carl Eugen
+    - Guthe, C. E. (Carl Eugen)
+    birthdate: 1893
+    deathdate: 1974
+    gutenberg_agent_id: '41637'
+    url: http://www.gutenberg.org/2009/agents/41637
+description: ''
+gutenberg_issued: '2013-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42346'
+  lccn: '21004323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Codex Dresdensis Maya'
+- !lcc 'E011'
+title: A Possible Solution of the Number Series on Pages 51 to 58 of the Dresden Codex
+url: http://www.gutenberg.org/ebooks/42346
